@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix PDF ToolKit",
+  "description": "Compress, merge, split, convert images, and manage PDF documents with real-time file size savings and preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
